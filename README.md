@@ -9,7 +9,7 @@ interactive link: https://www.figma.com/proto/AFBAQEbkz8kfAzBFhs3Der/supportICUS
 
 
 ### 2021 (some parts need refining to appear high end and more beautiful)
-#### Travel Wishlist: Beta Scratch Map - Travel App Design  
+#### Traveller: Beta Scratch Map - Travel App Design  
 Component-Asset approach of human-computer interaction field  
 https://www.figma.com/proto/iCrSEA48JBMjOBllAVa3Cq/Traveller?node-id=62%3A1704&starting-point-node-id=23%3A2292  
 https://www.figma.com/file/iCrSEA48JBMjOBllAVa3Cq/Traveller?node-id=2%3A6
