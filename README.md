@@ -1,4 +1,4 @@
-# App Design Figma
+# App Design in Figma
 
 ### 2022 
 #### supportICUs app design (award winning idea in the 2022 biotech day at ntua, a biomedical innovation competiion)
