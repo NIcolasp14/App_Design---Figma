@@ -1,7 +1,7 @@
 # App Design in Figma
 
 ### 2022 
-#### supportICUs app design (award winning idea in the 2022 biotech day at ntua, a biomedical innovation competiion)
+#### supportICUs app design (award winning idea in the 2022 biotech day at ntua, a biomedical innovation competition)
 tablet light theme: https://www.figma.com/file/4i6n2tJIVQPW6GO2JOOu3S/supportICUs-light-theme-(tablet)?node-id=0%3A1
 
 phone dark theme: https://www.figma.com/file/AFBAQEbkz8kfAzBFhs3Der/supportICUS  
