@@ -4,7 +4,7 @@
 #### supportICUs app design (award winning idea in the 2022 biotech day at ntua, a biomedical innovation competiion)
 tablet light theme: https://www.figma.com/file/4i6n2tJIVQPW6GO2JOOu3S/supportICUs-light-theme-(tablet)?node-id=0%3A1
 
-phone dark theme: https://www.figma.com/file/AFBAQEbkz8kfAzBFhs3Der/supportICUS
+phone dark theme: https://www.figma.com/file/AFBAQEbkz8kfAzBFhs3Der/supportICUS  
 interactive link: https://www.figma.com/proto/AFBAQEbkz8kfAzBFhs3Der/supportICUS?scaling=min-zoom&page-id=0%3A1&starting-point-node-id=13%3A20&node-id=13%3A20
 
 
